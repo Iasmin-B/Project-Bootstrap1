@@ -4,4 +4,9 @@
 
 .internal {
   border: 1px solid;
+  color: green;
+}
+
+btn .btn-primary .mt-3{
+  border-radius: 25%;
 }
